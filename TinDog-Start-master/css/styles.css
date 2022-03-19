@@ -78,16 +78,17 @@ p{
 }
 
 #testimonials{
-    padding: 7% 15%;
+    margin-bottom: -10rem;
     text-align: center;
     background-color: #ef8172;
     color: white;
 }
 
 .testimonial-image{
-    width: 10%;
+    width: 20%;
     border-radius: 100%;
     margin: 20%;
+    margin-top: 0.1rem;
 }
 
 #press{
@@ -99,4 +100,8 @@ p{
 .press-logo{
     width: 15%;
     margin: 20px 20px 50px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
 }
