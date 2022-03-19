@@ -56,13 +56,10 @@ p{
 .title-image{
     width: 60%;
     transform: rotate(25deg);
-    position: absolute;
 }
 
 #features{
     padding: 7% 15%;
-    background-color: white;
-    position: relative;
 }
 
 .feature-box{
@@ -81,7 +78,7 @@ p{
 }
 
 #testimonials{
-    margin-bottom: -10rem;
+    padding: 7% 15%;
     text-align: center;
     background-color: #ef8172;
     color: white;
@@ -91,7 +88,6 @@ p{
     width: 20%;
     border-radius: 100%;
     margin: 20%;
-    margin-top: 0.1rem;
 }
 
 #press{
@@ -103,17 +99,4 @@ p{
 .press-logo{
     width: 15%;
     margin: 20px 20px 50px;
-}
-
-.carousel-item{
-    padding: 7% 15%;
-}
-
-#pricing{
-    padding: 100px;
-    text-align: center;
-}
-
-.pricing-coloumn{
-    padding: 3% 2%;
 }
